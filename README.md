@@ -1,5 +1,12 @@
-# Cybersecurity Monitoring Agent
+# Cybersecurity Question Answering Agent
 
-This is a beginner-friendly cybersecurity agent project built using Python.
+This project is a Python-based cybersecurity assistant.
 
-It detects suspicious login attempts from log files.
+## Features
+- Runs in terminal
+- Answers basic cybersecurity questions
+- Beginner friendly
+
+## How to Run
+```bash
+python agent.py
